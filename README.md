@@ -1,4 +1,4 @@
-# DOCUMENTACIÒN DELLAB 06
+# DOCUMENTACIÒN DEL LAB 06
 
 Nuestras aplicaciòn tiene de nombre app01, y dentro de este se ha implementado 4 botos, los 3 primeros botones, son de las activiades que se realizaron en clase, y el 4to boton nosmuestra una lista agrupada de alumnos en base a sus respectivas secciones.
 Sin embargo Para realizar esta actividad se crearon  archivos, los cuales a continuaciòn los explicaremos: 
