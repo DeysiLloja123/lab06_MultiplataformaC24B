@@ -1,4 +1,4 @@
-![image](https://github.com/DeysiLloja123/lab06_MultiplataformaC24B/assets/129902954/53d43607-d01b-4008-b9f8-268f8ce28eb6)# DOCUMENTACIÒN DELLAB 06
+# DOCUMENTACIÒN DELLAB 06
 
 Nuestras aplicaciòn tiene de nombre app01, y dentro de este se ha implementado 4 botos, los 3 primeros botones, son de las activiades que se realizaron en clase, y el 4to boton nosmuestra una lista agrupada de alumnos en base a sus respectivas secciones.
 Sin embargo Para realizar esta actividad se crearon  archivos, los cuales a continuaciòn los explicaremos: 
@@ -25,10 +25,10 @@ Dentro de este archivo de tipo XAML se ha definido la interfaz de usuario y dent
 
 Dentro de este archivo, la página se inicia y se genera una agrupación de estudiantes con su respectiva secciòn perteneciente. Luego, se ejecutan las siguientes acciones:
 
-# 1 Los estudiantes se asignan al "listView".
-#  2 Se habilita la función de agrupación en el "listView".
-#  3 Se especifican las plantillas para los encabezados de grupo y los elementos de la lista.
-# 4 Se muestra la lista de estudiantes organizados en grupos en la página.
+* 1. Los estudiantes se asignan al "listView".
+* 2. Se habilita la función de agrupación en el "listView".
+* 3. Se especifican las plantillas para los encabezados de grupo y los elementos de la lista.
+* 4. Se muestra la lista de estudiantes organizados en grupos en la página.
 
 ## A continuaciòn se muestras capturas de los resultados:
 
